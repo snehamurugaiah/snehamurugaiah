@@ -6,14 +6,6 @@ Empowering decisions through data-driven insights. I’m a passionate Data Analy
 
 ---
 
-## 📞 Contact
-
-- **Email:** snehamurugaiah490@gmail.com  
-- **Phone:** +91 94897 39370  
-- **Location:** Tirunelveli, India
-
----
-
 ## 🎓 Education
 
 **B.Tech Artificial Intelligence and Data Science**  
