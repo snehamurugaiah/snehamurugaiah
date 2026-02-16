@@ -11,7 +11,7 @@ Empowering decisions through data-driven insights. I’m a passionate Data Analy
 **B.Tech Artificial Intelligence and Data Science**  
 National Engineering College  
 2022 - 2026  
-CGPA: 7.74
+CGPA: 7.86
 
 ---
 
